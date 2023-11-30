@@ -3,10 +3,11 @@
   <a href="https://github.com/Arsh-0/Arsh-0/blob/main/basics.svg">
     <img src="basics.svg" style="width: 100%;" alt="Click to see the source">
   </a>
-  Programmer and Developer
-------------------------
+<h3 align="center">A passionate Programmer and Developer from India</h3>
+  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arsh-0&label=Profile%20views&color=0e75b6&style=flat" alt="arsh-0" /> </p>
 
-I am and will always be a learner. Starting with basic computer knowledge and progressing to coding functional programs has been my journey thus far. As I delve into learning multiple programming languages, I gaze at the stars above me aspiring that someday, my codes will either guide me towards them or prove helpful enough for someone else to consider me to be a part of them.
+<p>I am and will always be a learner. Starting with basic computer knowledge and progressing to coding functional programs has been my journey thus far. As I delve into learning multiple programming languages, I gaze at the stars above me aspiring that someday, my codes will either guide me towards them or prove helpful enough for someone else to consider me to be a part of them.</p>
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [Work in Progress](http://example.com/brokenlink)
@@ -43,4 +44,19 @@ I am and will always be a learner. Starting with basic computer knowledge and pr
 <li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/arshpathak"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
 
 </ul>
+<h1 align="center">Hi 👋, I'm Arsh Pathak</h1>
+
+
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arsh-0&show_icons=true&locale=en&layout=compact" alt="arsh-0" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arsh-0&show_icons=true&locale=en" alt="arsh-0" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arsh-0&" alt="arsh-0" /></p>
+
 </div>
