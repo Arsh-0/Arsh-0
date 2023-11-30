@@ -43,19 +43,4 @@
 <li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/arshpathak"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
 
 </ul>
-<h1 align="center">Hi 👋, I'm Arsh Pathak</h1>
-
-
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arsh-0&show_icons=true&locale=en&layout=compact" alt="arsh-0" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arsh-0&show_icons=true&locale=en" alt="arsh-0" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arsh-0&" alt="arsh-0" /></p>
-
 </div>
