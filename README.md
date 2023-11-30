@@ -3,7 +3,7 @@
   <a href="https://github.com/Arsh-0/Arsh-0/blob/main/basics.svg">
     <img src="basics.svg" style="width: 100%;" alt="Click to see the source">
   </a>
-  
+<h1> </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arsh-0&label=Profile%20views&color=0e75b6&style=flat" alt="arsh-0" /> </p>
 
 <p>I am and will always be a learner. Starting with basic computer knowledge and progressing to coding functional programs has been my journey thus far. As I delve into learning multiple programming languages, I gaze at the stars above me aspiring that someday, my codes will either guide me towards them or prove helpful enough for someone else to consider me to be a part of them.</p>
