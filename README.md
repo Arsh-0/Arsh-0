@@ -8,10 +8,10 @@
 
 <p>I am and will always be a learner. Starting with basic computer knowledge and progressing to coding functional programs has been my journey thus far. As I delve into learning multiple programming languages, I gaze at the stars above me aspiring that someday, my codes will either guide me towards them or prove helpful enough for someone else to consider me to be a part of them.</p>
 
-* 🌍  I'm based in India
+* 📖  Pursuing Masters in Computer Application at Delhi University.
 * 🖥️  See my portfolio at [Work in Progress](http://example.com/brokenlink)
 * ✉️  You can contact me at [Arshdipu@gmail.com](mailto:Arshdipu@gmail.com)
-* 🧠  I'm learning Data Structures and Algorithms using C++
+* 🧠  Currently focusing on learning Data Structures and Algorithms using C++
 * ⚡  I love to read books and watch movies or series when idling around.
 
 <h1> </h1>
