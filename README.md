@@ -36,9 +36,11 @@
 <b>My GitHub Stats</b>
 
 <p align="center">
-<a href="http://www.github.com/Arsh-0" align="left"><img src="https://github-readme-stats.vercel.app/api?username=Arsh-0&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=84cc16&icon_color=ef4444&bg_color=000000&hide_border=true&show_icons=true" alt="Arsh-0's GitHub stats" /></a>
-<a href="http://www.github.com/Arsh-0" align="right"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Arsh-0&stroke=84cc16&background=000000&ring=facc15&fire=facc15&currStreakNum=84cc16&currStreakLabel=facc15&sideNums=84cc16&sideLabels=84cc16&dates=84cc16&hide_border=true" /></a>
-<a href="https://github.com/Arsh-0"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arsh-0&langs_count=10&title_color=facc15&text_color=84cc16&icon_color=ef4444&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages"/></a>
+<a href="http://www.github.com/Arsh-0" align="left"><img src="https://github-readme-stats.vercel.app/api?username=Arsh-0&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=84cc16&icon_color=ef4444&bg_color=000000&hide_border=true&show_icons=true" alt="Arsh-0's GitHub stats" /></a><br/>
+  
+<a href="http://www.github.com/Arsh-0" align="right"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Arsh-0&stroke=84cc16&background=000000&ring=facc15&fire=facc15&currStreakNum=84cc16&currStreakLabel=facc15&sideNums=84cc16&sideLabels=84cc16&dates=84cc16&hide_border=true" /></a><br/>
+
+<a href="https://github.com/Arsh-0"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arsh-0&langs_count=10&title_color=facc15&text_color=84cc16&icon_color=ef4444&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages"/></a><br/>
 </p>
 
 <h1> </h1>
