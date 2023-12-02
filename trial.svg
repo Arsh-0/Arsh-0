@@ -1,7 +1,7 @@
 <svg width="1800" height="400" viewBox="0 0 1800 400" xmlns="http://www.w3.org/2000/svg">
   <style>  
     .falling {
-      fill: #00FF00; 
+      fill: #00FF7F; 
       font-family: 'Courier New', Courier, monospace;
       font-size: 20px;
       opacity: 0.6;
