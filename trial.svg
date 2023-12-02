@@ -48,7 +48,6 @@
   </text>
   
   <g id="fallingNumbers" class="falling">
-    
     <text x="50" y="-50"><animate attributeName="y" values="-150;400" dur="5s" repeatCount="indefinite" />0</text>
     <text x="50" y="55"><animate attributeName="y" values="-10;400" dur="5s" repeatCount="indefinite" />31</text>
     <text x="50" y="90"><animate attributeName="y" values="-390;400" dur="5s" repeatCount="indefinite" />5</text>
@@ -70,46 +69,26 @@
     <text x="300" y="300">55</text>
     <text x="300" y="500">y</text>
 
-    <text x="350" y="-50"><animate attributeName="y" values="-150;400" dur="5s" repeatCount="indefinite" />0</text>
-    <text x="350" y="55"><animate attributeName="y" values="-10;400" dur="5s" repeatCount="indefinite" />31</text>
-    <text x="350" y="90"><animate attributeName="y" values="-390;400" dur="5s" repeatCount="indefinite" />5</text>
-    <text x="350" y="130">87</text>
-    <text x="350" y="285">8</text>
-    <text x="350" y="205">28</text>
-
-    <text x="550" y="-50"><animate attributeName="y" values="-150;400" dur="5s" repeatCount="indefinite" />0</text>
-    <text x="550" y="55"><animate attributeName="y" values="-10;400" dur="5s" repeatCount="indefinite" />31</text>
-    <text x="550" y="90"><animate attributeName="y" values="-390;400" dur="5s" repeatCount="indefinite" />5</text>
-    <text x="550" y="130">87</text>
-    <text x="550" y="285">8</text>
-    <text x="550" y="205">28</text>
+    <text x="450" y="-50"><animate attributeName="y" values="-150;400" dur="5s" repeatCount="indefinite" />+</text>
+    <text x="450" y="55"><animate attributeName="y" values="-10;400" dur="5s" repeatCount="indefinite" />31</text>
+    <text x="450" y="90"><animate attributeName="y" values="-390;400" dur="5s" repeatCount="indefinite" />3</text>
+    <text x="450" y="130">99</text>
+    <text x="450" y="285">?</text>
+    <text x="450" y="205">28</text>
     
-    <text x="1000" y="-150"><animate attributeName="y" values="-50;400" dur="5s" repeatCount="indefinite" />A</text>
-    <text x="1000" y="55"><animate attributeName="y" values="-5;400" dur="5s" repeatCount="indefinite" />12</text>
-    <text x="1000" y="120"><animate attributeName="y" values="-500;400" dur="5s" repeatCount="indefinite" />0</text>
-    <text x="1000" y="20">1</text>
-    <text x="1000" y="300">9</text>
-    <text x="1000" y="500">Z</text>
+    <text x="500" y="-150"><animate attributeName="y" values="-50;400" dur="5s" repeatCount="indefinite" />A</text>
+    <text x="500" y="55"><animate attributeName="y" values="-5;400" dur="5s" repeatCount="indefinite" />12</text>
+    <text x="500" y="120"><animate attributeName="y" values="-500;400" dur="5s" repeatCount="indefinite" />0</text>
+    <text x="500" y="20">1</text>
+    <text x="500" y="300">9</text>
+    <text x="500" y="500">Z</text>
 
-    <text x="1550" y="-250"><animate attributeName="y" values="-50;400" dur="5s" repeatCount="indefinite" />+</text>
-    <text x="1550" y="250">14</text>
-    <text x="1550" y="250">23</text>
-    <text x="1550" y="250">86</text>
-    <text x="1550" y="250">61</text>
-
-    <text x="1750" y="-50"><animate attributeName="y" values="-150;400" dur="5s" repeatCount="indefinite" />0</text>
-    <text x="1750" y="55"><animate attributeName="y" values="-10;400" dur="5s" repeatCount="indefinite" />31</text>
-    <text x="1750" y="90"><animate attributeName="y" values="-390;400" dur="5s" repeatCount="indefinite" />5</text>
-    <text x="1750" y="130">87</text>
-    <text x="1750" y="285">8</text>
-    <text x="1750" y="205">28</text>
-    
-    <text x="2100" y="-150"><animate attributeName="y" values="-50;400" dur="5s" repeatCount="indefinite" />A</text>
-    <text x="2100" y="55"><animate attributeName="y" values="-5;400" dur="5s" repeatCount="indefinite" />12</text>
-    <text x="2100" y="120"><animate attributeName="y" values="-500;400" dur="5s" repeatCount="indefinite" />0</text>
-    <text x="2100" y="20">1</text>
-    <text x="2100" y="300">9</text>
-    <text x="2100" y="500">Z</text>
+    <text x="750" y="-150"><animate attributeName="y" values="-50;400" dur="5s" repeatCount="indefinite" />I</text>
+    <text x="750" y="55"><animate attributeName="y" values="-5;400" dur="5s" repeatCount="indefinite" />66</text>
+    <text x="750" y="120"><animate attributeName="y" values="-500;400" dur="5s" repeatCount="indefinite" />M</text>
+    <text x="750" y="20">@</text>
+    <text x="750" y="300">5</text>
+    <text x="750" y="500">-</text>
   </g>  
   
 </svg>
