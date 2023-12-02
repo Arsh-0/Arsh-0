@@ -1,7 +1,7 @@
 
 <div style="width: 100%;">
-  <a href="https://github.com/Arsh-0/Arsh-0/blob/main/basics.svg">
-    <img src="basics.svg" style="width: 100%;" alt="Click to see the source">
+  <a href="https://github.com/Arsh-0">
+    <img src="basics.svg" style="width: 100%;" alt="Click to see the profile">
   </a>
 <h1> </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arsh-0&label=Profile%20views&color=0e75b6&style=flat" alt="arsh-0" /> </p>
