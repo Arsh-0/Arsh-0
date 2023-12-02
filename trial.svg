@@ -1,0 +1,9 @@
+<svg width="100%" height="100%" viewBox="0 0 1000 1000" fill="none" preserveAspectRatio="true">  
+<linearGradient id="color-gradient" x1="0%" y1="0%" x2="100%" y2="100%">   
+<stop stop-color="#00FF00" offset="0%" />    
+<stop stop-color="#0000FF" offset="100%" />  
+</linearGradient>  
+<g fill="url(#color-gradient)" text-anchor="middle">    
+<text font-size="50" font-weight="bold" text-transform="uppercase" fill="#FFFFFF" dy="100">Your Stylish Text Here</text>    
+<rect x="300" y="500" width="100" height="50" rx="10" fill="#00FF00" />    
+<!-- Add more matrix-like elements here, such as lines, shapes, and other elements -->  </g></svg>
