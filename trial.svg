@@ -5,7 +5,16 @@
       font-family: 'Courier New', Courier, monospace;
       font-size: 20px;
       opacity: 0.6;
-      animation: fall 5s linear infinite;
+      animation: glow 1.5s alternate-reverse ease-in-out infinite, fall 5s linear infinite;
+    }
+
+    @keyframes glow {
+      from {
+        filter: url(#glow);
+      }
+      to {
+        filter: none;
+      }
     }
 
     @keyframes fall {
@@ -17,22 +26,40 @@
       }
     }
   </style>
+  
+  <defs>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="5" result="glow"/>
+      <feMerge>
+        <feMergeNode in="glow"/>
+        <feMergeNode in="glow"/>
+        <feMergeNode in="glow"/>
+      </feMerge>
+    </filter>
+  </defs>
 
-   <rect width="100%" height="100%" fill="#000" />
-  <!-- Your original text on top -->
-  <text x="50%" y="50" text-anchor="middle" font-size="30" fill="#FFFFFF">Your Original Text</text>
-
-  <!-- JavaScript or external data generation can be used to create falling numbers -->
-  <!-- Example showing 100 falling numbers -->
-  <g id="fallingNumbers">
-    <!-- You can use a script or external data to generate these text elements -->
-    <!-- For demonstration purposes, generating random numbers here -->
-    <!-- You may need to adjust these numbers based on your design and requirement -->
-    <!-- Generating 100 numbers with random positions -->
-    <text x="50" y="50" class="falling">1</text>
-    <text x="100" y="150" class="falling">2</text>
-    <!-- Add more numbers here -->
-    <!-- ... -->
-    <text x="550" y="250" class="falling">100</text>
-  </g>
+  <rect width="100%" height="100%" fill="#000" />
+  <text x="50%" y="50" text-anchor="middle" font-size="30" fill="#FFFFFF">
+    Your Original Text
+  </text>
+  
+  <g id="fallingNumbers" class="falling">
+    <text x="50" y="-50"><animate attributeName="y" values="-150;400" dur="5s" repeatCount="indefinite" />0</text>
+    <text x="50" y="55"><animate attributeName="y" values="-10;400" dur="5s" repeatCount="indefinite" />31</text>
+    <text x="50" y="90"><animate attributeName="y" values="-390;400" dur="5s" repeatCount="indefinite" />5</text>
+    <text x="50" y="130">87</text>
+    <text x="50" y="285">8</text>
+    <text x="50" y="205">28</text>
+    <text x="100" y="-150"><animate attributeName="y" values="-50;400" dur="5s" repeatCount="indefinite" />A</text>
+    <text x="100" y="50">12</text>
+    <text x="100" y="150">0</text>
+    <text x="100" y="250">1</text>
+    <text x="100" y="350">9</text>
+    <text x="550" y="-250"><animate attributeName="y" values="-50;400" dur="5s" repeatCount="indefinite" />+</text>
+    <text x="550" y="250">14</text>
+    <text x="550" y="250">23</text>
+    <text x="550" y="250">86</text>
+    <text x="550" y="250">61</text>
+  </g>  
+  
 </svg>
