@@ -3,9 +3,16 @@
   <a href="https://github.com/Arsh-0">
     <img src="basics.svg" style="width: 100%;" alt="Click to see the profile">
   </a>
-<h1 align="center">About Me</h1>
-  <img src="trial.svg" style="width: 100%;" alt="Introduction">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arsh-0&label=Profile%20views&color=0e75b6&style=flat" alt="arsh-0" /> </p>
+
+***
+
+<img src="trial.svg" style="width: 100%;" alt="Introduction"><br/>
+  
+<p align="middle"> <img src="https://komarev.com/ghpvc/?username=arsh-0&label=Profile%20views&color=0e75b6&style=flat" alt="arsh-0" /> </p>
+
+---
+
+### About me
 
 
 * 📖  Pursuing Masters in Computer Application at Delhi University.
@@ -14,7 +21,7 @@
 * 🧠  Currently focusing on learning Data Structures and Algorithms using C++
 * ⚡  I love to read books and watch movies or series when idling around.
 
-<h1> </h1>
+---
 
 ### Skills
 
@@ -27,7 +34,7 @@
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/Arsh-0" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/arshpathak/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+<p align="center"> <a href="https://www.github.com/Arsh-0" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/arshpathak/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
 <h1> </h1>
 
