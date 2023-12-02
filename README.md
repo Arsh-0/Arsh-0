@@ -13,7 +13,7 @@
 ---
 
 ### About me
-
+<img src="Computer.gif" alt="Computer coding" width=400 align="right"/>
 
 * 📖  Pursuing Masters in Computer Application at Delhi University.
 * 🖥️  See my portfolio at [Work in Progress](http://example.com/brokenlink)
