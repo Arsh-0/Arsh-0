@@ -62,6 +62,13 @@
     <text x="100" y="300">9</text>
     <text x="100" y="500">Z</text>
 
+    <text x="250" y="-50"><animate attributeName="y" values="-150;400" dur="5s" repeatCount="indefinite" />N</text>
+    <text x="250" y="55"><animate attributeName="y" values="-10;400" dur="5s" repeatCount="indefinite" />P</text>
+    <text x="250" y="90"><animate attributeName="y" values="-390;400" dur="5s" repeatCount="indefinite" />9</text>
+    <text x="250" y="130">87</text>
+    <text x="250" y="285">22</text>
+    <text x="250" y="205">54</text>
+
     <text x="300" y="-150"><animate attributeName="y" values="-50;400" dur="5s" repeatCount="indefinite" />Z</text>
     <text x="300" y="55"><animate attributeName="y" values="-5;400" dur="5s" repeatCount="indefinite" />1</text>
     <text x="300" y="120"><animate attributeName="y" values="-500;400" dur="5s" repeatCount="indefinite" />40</text>
