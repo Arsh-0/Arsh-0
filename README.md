@@ -13,13 +13,20 @@
 ---
 
 ### About me
-<img src="Computer.gif" alt="Computer coding" width=400 align="right"/>
+<div>
+<pre>
+<img src="Computer.gif" alt="Computer coding" align="right" width="200"/>
+</pre>
 
-* 📖  Pursuing Masters in Computer Application at Delhi University.
+
+
+* 📖  Pursuing master's in Computer Application at Delhi University.
 * 🖥️  See my portfolio at [Work in Progress](http://example.com/brokenlink)
 * ✉️  You can contact me at [Arshdipu@gmail.com](mailto:Arshdipu@gmail.com)
 * 🧠  Currently focusing on learning Data Structures and Algorithms using C++
 * ⚡  I love to read books and watch movies or series when idling around.
+</div>
+
 
 ---
 
