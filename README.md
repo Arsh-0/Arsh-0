@@ -74,9 +74,9 @@
 
 ### Support Me
 
-<ul style="list-style-type: none; margin: 0;">
+<ul style="list-style-type: none; margin: 50%;">
 
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/arshpathak"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
+<li><a href="https://www.buymeacoffee.com/arshpathak"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
 
 </ul>
 </div>
